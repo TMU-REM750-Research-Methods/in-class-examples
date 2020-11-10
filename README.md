@@ -27,13 +27,13 @@ This repository contains all program files used for in-class demonstrations.
 
 ## Time-series regression
 - Folder: [TS-estimation](https://github.com/REM750-Research-Methods/in-class-examples/tree/main/MLR-binary-variables)
-- Jupyter notebook:
-- Data file: hprice1.csv
+- Jupyter notebook: *TS_basics.ipynb*
+- Data file: *HSEINV.csv*
 
 ## Estimating binary outcome variables
 - Folder: [GLS-estimation](https://github.com/REM750-Research-Methods/in-class-examples/tree/main/MLR-binary-variables)
 - Jupyter notebook:
-- Data file: hprice1.csv
+- Data file:
 
 *** 
 ## Reference
