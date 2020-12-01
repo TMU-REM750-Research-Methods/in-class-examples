@@ -25,15 +25,15 @@ This repository contains all program files used for in-class demonstrations.
 - Jupyter notebook: *MLR_heteroskedasticity.ipynb*
 - Data file: *hprice1.csv*
 
-## Time-series regression
-- Folder: [TS-estimation](https://github.com/REM750-Research-Methods/in-class-examples/tree/main/MLR-binary-variables)
+## Time-series regression: basics
+- Folder: [TS-estimation](https://github.com/REM750-Research-Methods/in-class-examples/tree/main/TS-basics)
 - Jupyter notebook: *TS_basics.ipynb*
 - Data file: *HSEINV.csv*
 
-## Estimating binary outcome variables
-- Folder: [GLS-estimation](https://github.com/REM750-Research-Methods/in-class-examples/tree/main/MLR-binary-variables)
-- Jupyter notebook:
-- Data file:
+## Time-series regression: autoregressive process
+- Folder: [TS-estimation](https://github.com/REM750-Research-Methods/in-class-examples/tree/main/TS-ar1)
+- Jupyter notebook: *TS_ar1.ipynb*
+- Data file: *CDN_hprice.csv*
 
 *** 
 ## Reference
