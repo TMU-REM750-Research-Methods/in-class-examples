@@ -3,13 +3,19 @@
 This repository contains all program files used for in-class demonstrations.
 
 ## Content
-1. [Basic estimation of multiple linear regression model](#Basic-estimation-of-multiple-linear-regression-model)
-2. [Using qualitative information (binary / dummy Variables)](#Using-qualitative-information-(binary-/-dummy-Variables))
-3. [Heteroskedasticity-robust inference](#Heteroskedasticity-robust-inference)
-4. [Time-series regression](#Time-series-regression)
-5. [Estimating binary outcome variables](#Estimating-binary-outcome-variables)
+1. [Basic estimation of simple linear regression model](#Basic-estimation-of-simple-linear-regression-model)
+2. [Basic estimation of multiple linear regression model](#Basic-estimation-of-multiple-linear-regression-model)
+3. [Using qualitative information (binary / dummy Variables)](#Using-qualitative-information-(binary-/-dummy-Variables))
+4. [Heteroskedasticity-robust inference](#Heteroskedasticity-robust-inference)
+5. [Time-series regression](#Time-series-regression)
+6. [Estimating binary outcome variables](#Estimating-binary-outcome-variables)
 
 ***
+## Basic estimation of simple linear regression model
+- Folder: [SLR-estimation](https://github.com/REM750-Research-Methods/in-class-examples/tree/main/SLR-estimation)
+- Jupyter notebook: *SLR_estimation.ipynb*
+- Data file: *hprice1.csv*
+
 ## Basic estimation of multiple linear regression model
 - Folder: [MLR-estimation](https://github.com/REM750-Research-Methods/in-class-examples/tree/main/MLR-estimation)
 - Jupyter notebook: *MLR_estimation.ipynb*
