@@ -5,10 +5,11 @@ This repository contains all program files used for in-class demonstrations.
 ## Content
 1. [Basic estimation of simple linear regression model](#Basic-estimation-of-simple-linear-regression-model)
 2. [Basic estimation of multiple linear regression model](#Basic-estimation-of-multiple-linear-regression-model)
-3. [Using qualitative information (binary / dummy Variables)](#Using-qualitative-information-(binary-/-dummy-Variables))
-4. [Heteroskedasticity-robust inference](#Heteroskedasticity-robust-inference)
-5. [Time-series regression](#Time-series-regression)
-6. [Estimating binary outcome variables](#Estimating-binary-outcome-variables)
+3. [Statistical inference for multiple linear regression model](#Statistical-inference-for-multiple-linear-regression-model)
+4. [Using qualitative information (binary / dummy Variables)](#Using-qualitative-information-(binary-/-dummy-Variables))
+5. [Heteroskedasticity-robust inference](#Heteroskedasticity-robust-inference)
+6. [Time-series regression](#Time-series-regression)
+7. [Estimating binary outcome variables](#Estimating-binary-outcome-variables)
 
 ***
 ## Basic estimation of simple linear regression model
@@ -22,7 +23,7 @@ This repository contains all program files used for in-class demonstrations.
 - Data file: *hprice1.csv*
 
 ## Statistical inference for multiple linear regression model
-- Folder: [MLR-estimation](https://github.com/REM750-Research-Methods/in-class-examples/tree/main/MLR-inference)
+- Folder: [MLR-inference](https://github.com/REM750-Research-Methods/in-class-examples/tree/main/MLR-inference)
 - Jupyter notebook: *MLR_inference.ipynb*
 - Data file: *hprice1.csv*
 
