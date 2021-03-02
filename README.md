@@ -21,6 +21,11 @@ This repository contains all program files used for in-class demonstrations.
 - Jupyter notebook: *MLR_estimation.ipynb*
 - Data file: *hprice1.csv*
 
+## Statistical inference for multiple linear regression model
+- Folder: [MLR-estimation](https://github.com/REM750-Research-Methods/in-class-examples/tree/main/MLR-inference)
+- Jupyter notebook: *MLR_inference.ipynb*
+- Data file: *hprice1.csv*
+
 ## Using qualitative information (binary / dummy Variables)
 - Folder: [MLR-binary-variables](https://github.com/REM750-Research-Methods/in-class-examples/tree/main/MLR-binary-variables)
 - Jupyter notebook: *MLR_dummy.ipynb*
