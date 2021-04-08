@@ -49,7 +49,7 @@ This repository contains all program files used for in-class demonstrations.
 
 *** 
 ## Reference
-- Jeffrey M. Wooldridge (2012) "Introductory Econometrics: A Modern Approach, 5e".
+- Jeffrey M. Wooldridge (2019) "Introductory Econometrics: A Modern Approach, 7e".
 - The pandas development team (2020). "[pandas-dev/pandas: Pandas](https://pandas.pydata.org/)." Zenodo.
 - Seabold, Skipper, and Josef Perktold (2010). "[statsmodels: Econometric and statistical modeling with python](https://www.statsmodels.org/stable/index.html)." Proceedings of the 9th Python in Science Conference.
 
