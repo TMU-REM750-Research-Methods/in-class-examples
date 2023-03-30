@@ -8,8 +8,8 @@ This repository contains all program files used for in-class demonstrations.
 3. [Statistical inference for multiple linear regression model](#Statistical-inference-for-multiple-linear-regression-model)
 4. [Using qualitative information (binary / dummy Variables)](#Using-qualitative-information-(binary-/-dummy-Variables))
 5. [Heteroskedasticity-robust inference](#Heteroskedasticity-robust-inference)
-6. [Time-series regression: basics](#Time-series-regression:-basics)
-7. [Time-series regression: autoregressive process](#Time-series-regression:-autoregressive-process)
+6. [Time-series regression: basics](#Time-series-regression-basics)
+7. [Time-series regression: autoregressive process](#Time-series-regression-autoregressive-process)
 
 ***
 ## Basic estimation of simple linear regression model
