@@ -1,5 +1,5 @@
 {
-  "name": "REM750 Real Estate Research Methods",
+  "name": "In-Class Examples (Python Only)",
 
   // Use a Python dev container image
   "image": "mcr.microsoft.com/devcontainers/python:3.11",
