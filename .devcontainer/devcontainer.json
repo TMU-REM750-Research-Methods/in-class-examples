@@ -1,21 +1,16 @@
 {
-  "name": "In-Class Examples (Python Only)",
+  "name": "REM750 Real Estate Research Methods",
 
-  // Use a Python dev container image
-  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  // Use a prebuilt Python 3.11 container
+  "image": "mcr.microsoft.com/devcontainers/anaconda:latest",
 
-  // Automatically install dependencies listed in requirements.txt
+  // Automatically install Python dependencies
   "postCreateCommand": "pip install --no-cache-dir -r requirements.txt",
-
-  // Forward a port for Jupyter or other servers
-  "forwardPorts": [8888],
-
-  // Add VS Code extensions for Python and Jupyter
   "customizations": {
     "vscode": {
       "extensions": [
-        "ms-python.python",
-        "ms-toolsai.jupyter"
+        "ms-toolsai.jupyter",
+        "ms-python.python"
       ]
     }
   }
