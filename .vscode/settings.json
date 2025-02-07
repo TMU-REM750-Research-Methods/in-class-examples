@@ -1,6 +1,0 @@
-{
-  "jupyter.jupyterServerType": "local",
-  "jupyter.defaultKernel": "Python 3",
-  "python.defaultInterpreterPath": "/usr/local/bin/python",
-  "python.terminal.activateEnvironment": true
-}
