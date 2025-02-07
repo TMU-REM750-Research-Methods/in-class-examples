@@ -2,10 +2,15 @@
   "name": "REM750 Real Estate Research Methods",
 
   // Use a prebuilt Python 3.11 container
-  "image": "mcr.microsoft.com/devcontainers/anaconda:latest",
+  "image": "mcr.microsoft.com/devcontainers/python:latest",
 
-  // Automatically install Python dependencies
+  // Install dependencies
   "postCreateCommand": "pip install --no-cache-dir -r requirements.txt",
+
+  // Start auto-fetch in the background
+  "onCreateCommand": "(while true; do git fetch origin; sleep 60; done) &",
+
+  // Enable VS Code extensions for Python development
   "customizations": {
     "vscode": {
       "extensions": [
