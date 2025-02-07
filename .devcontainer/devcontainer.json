@@ -1,7 +1,7 @@
 {
   "name": "REM750 Real Estate Research Methods",
 
-  // Use a prebuilt Python 3.11 container
+  // Use a prebuilt Python container
   "image": "mcr.microsoft.com/devcontainers/python:latest",
 
   // Install dependencies
