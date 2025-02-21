@@ -1,16 +1,22 @@
 {
   "name": "REM750 Real Estate Research Methods",
 
-  // Use a prebuilt Python 3.11 container
-  "image": "mcr.microsoft.com/devcontainers/anaconda:latest",
+  // Use the custom Dockerfile instead of a base image
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
 
-  // Automatically install Python dependencies
-  "postCreateCommand": "pip install --no-cache-dir -r requirements.txt",
+  // Start auto-fetch in the background
+  "onCreateCommand": "(while true; do git fetch origin; sleep 60; done) &",
+
+  // Enable VS Code extensions for Python development
   "customizations": {
     "vscode": {
       "extensions": [
         "ms-toolsai.jupyter",
-        "ms-python.python"
+        "ms-python.python",
+        "MS-vsliveshare.vsliveshare"
       ]
     }
   }

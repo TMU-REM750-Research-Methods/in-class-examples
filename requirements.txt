@@ -1,7 +1,6 @@
 numpy
+scipy
 pandas
 matplotlib
-seaborn
-scipy
 statsmodels
 jupyter
