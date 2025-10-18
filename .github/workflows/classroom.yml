@@ -34,7 +34,7 @@ jobs:
             jupyter nbconvert \
               --to notebook \
               --execute "$nb" \
-              --output "$nb" \
+              --inplace \
               --ExecutePreprocessor.kernel_name=python3 \
               --ExecutePreprocessor.timeout=600 \
               --ExecutePreprocessor.allow_errors=True
